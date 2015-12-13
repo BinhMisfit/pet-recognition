@@ -1,2 +1,2 @@
 # Pet-recognition
-A sample codes for cat/dog recognition
+A sample code for cat/dog recognition
